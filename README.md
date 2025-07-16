@@ -41,6 +41,6 @@ In **Part 2**, we’ll dive into:
 ---
 
 ## 📖 Read the LinkedIn Article  
-👉 [LINK_TO_YOUR_ARTICLE]
+👉 [https://www.linkedin.com/posts/emmanuel-ochiba_built-my-own-gpt-2-model-from-scratch-using-activity-7351240765139783680-8_cd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADUBMK0BJKnDNOJm8Uyny8EmQ_c2UBVsWCc]
 
 ## ⭐️ Star this repo if you enjoy the project or learn something new!

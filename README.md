@@ -19,7 +19,7 @@ The goal is to walk through every step, from raw text to a trainable input forma
 ---
 
 ## 📁 Files
-- `sheldon data v2.ipynb` – Part 1 notebook: tokenization, BPE, embeddings, and data prep
+- `sheldon data v2.ipynb` – full pretraining script from scratch
 - `sheldon_dialogue.txt` – Text corpus used for training
 - `README.md` – You’re reading it
 
